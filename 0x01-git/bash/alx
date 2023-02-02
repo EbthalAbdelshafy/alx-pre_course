@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 ALX School
+=======
+#!/bin/bash
+echo"ALX School"
+>>>>>>> 8de04cdd77f94b215fe6f1ba14d9fb6612d0f931
